@@ -1,0 +1,7 @@
+@inproceedings{REPO-182,
+    author = "Chen, Zhuang and Qian, Tieyun",
+    booktitle = "Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (Volume 1: Long Papers)",
+    pages = "317--327",
+    title = "{Bridge-Based Active Domain Adaptation for Aspect Term Extraction}",
+    year = "2021"
+}
